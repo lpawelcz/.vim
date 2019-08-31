@@ -1,6 +1,6 @@
 [submodule "pack/my_plugins"]
 	path = pack/my_plugins
-	url = git@bitbucket.org:teleele/vim_my_plugins.git
+	url = https://teleele@bitbucket.org/teleele/vim_my_plugins.git
 [submodule "colors"]
 	path = colors
-	url = git@bitbucket.org:teleele/vim_colors.git
+	url = https://teleele@bitbucket.org/teleele/vim_colors.git
